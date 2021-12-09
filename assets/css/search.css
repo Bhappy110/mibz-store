@@ -1,0 +1,29 @@
+.data {
+	margin-top: 50px;
+}
+.jumbotron{
+	background-color: transparent;
+}
+.content{
+	margin-top: 7px;
+}
+.tombol {
+	margin-left: 10px;
+	margin-top: 10px; 
+
+}
+.jumlah{
+	font-size: 20px;
+}
+.search-engine{
+	margin-top: 40px;
+}
+.barang-kosong{
+	margin-top: 100px;
+}
+.barang-kosong .fa-search{
+	font-size: 60px;
+}
+.barang-kosong .keterangan{
+	font-size: 15px;
+}

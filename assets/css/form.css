@@ -1,0 +1,33 @@
+.image1{
+	margin-top: 15%;
+	margin-bottom: auto;
+	width: 300px;
+	height: auto;
+}
+.jumbotron{
+	background-color: transparent;
+}
+.content{
+	margin-top: 7px;
+}
+.title {
+	margin-top: 10px;
+}
+.tombol {
+	margin-left: 10px;
+	margin-top: 10px; 
+
+}
+#navbarNavAltMarkup .active{
+	color: white;
+}
+@media (min-width: 992px) {  
+
+	.form{
+		margin-top: 0px;
+	}
+	.title{
+		text-align: left;
+	}
+
+}

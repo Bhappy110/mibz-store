@@ -1,0 +1,32 @@
+.data {
+	margin-top: 50px;
+}
+.jumbotron{
+	background-color: transparent;
+}
+.content{
+	margin-top: 7px;
+}
+.tombol {
+	margin-left: 10px;
+	margin-top: 10px; 
+
+}
+.jumlah{
+	font-size: 20px;
+}
+.pesan{
+	content: "";
+	width: 25rem;
+	height: 60px;
+
+}
+.btn-light{
+	padding: 4px 20px;
+}
+@media (min-width: 992px) {  
+
+	.data {
+		margin-top: 0px;
+	}
+}
